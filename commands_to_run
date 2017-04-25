@@ -1,0 +1,1 @@
+UNICORN_SIDEKIQS=1 UNICORN_STATS_SOCKET_DIR=tmp/stats unicorn -c config/unicorn.conf.rb
